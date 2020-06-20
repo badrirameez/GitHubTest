@@ -9,6 +9,8 @@ namespace GitHubTest
             Console.WriteLine("Hello World!");
 
             Console.WriteLine("First GIT Push");
+
+            Console.WriteLine("Second GIT Push");
         }
     }
 }
